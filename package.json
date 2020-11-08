@@ -13,6 +13,9 @@
   "author": "Imran Ansari",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "ejs": "^3.1.5",
+    "ejs-layout": "^1.0.15",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
   }
 }
