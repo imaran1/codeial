@@ -1,0 +1,10 @@
+#home-cotainer {
+  display: flex; }
+  #home-cotainer #feed-posts {
+    width: 100%;
+    padding: 10px; }
+  #home-cotainer #user-friends {
+    width: 30%;
+    padding: 10px;
+    border-left: 1px solid lightgray;
+    height: 100%; }
